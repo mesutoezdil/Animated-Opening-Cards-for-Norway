@@ -1,4 +1,3 @@
-
 <h2>Today I’ll go through the steps of how to build a greeting card using CSS animations, so that you too can wow your friends or family with a super personalized, eco-friendly and homemade card made with love and dev skills straight from the heart.</h2>
 
 <h3>Learn how to create the effect of expanding or shrinking a container, a post or a box with simple css and javascript.</h3>
@@ -9,4 +8,4 @@
 
 <h6>Graphics Interchange Format</h6>
 
-![](aoc.gif)# Animated-Opening-Cards-for-Norway
+![](aoc.gif)
